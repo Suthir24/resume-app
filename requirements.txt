@@ -1,3 +1,5 @@
 PyPDF2==3.0.1
 spacy==3.7.2
 streamlit==1.29.0
+typer==0.6.0
+click==8.0.1
